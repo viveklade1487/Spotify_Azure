@@ -1,0 +1,15 @@
+{
+	"name": "adf-spotifyvivekproject1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84dd781a-0d80-4d27-8992-01d60ef81acf",
+		"tenantId": "589b168a-f584-474a-9db2-e86607886d51"
+	}
+}
