@@ -1,0 +1,1 @@
+This folder contains the SQL scripts used in the Spotify Azure Data Engineering project. The scripts are used to create database objects, define tables and schemas, load and transform data, and perform SQL-based data analysis as part of the overall data pipeline.
